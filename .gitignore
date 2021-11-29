@@ -2,5 +2,5 @@ runs
 # dfdc_deepfake_challenge
 dfdc_deepfake_challenge/images
 dfdc_deepfake_challenge/logs
-dfdc_deepfake_challenge/configs
+dfdc_deepfake_challenge/libs
 dfdc_deepfake_challenge/weights
